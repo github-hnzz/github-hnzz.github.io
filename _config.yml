@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 无名的博客 | BY Blog
+title: Mr Du Blog
+SEOTitle: 密斯杜的博客 | Mr Du Blog
 header-img: img/post-bg-desk.jpg
 email: hnzz_dyf@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 无名的博客, 无名, odoo, python, web"
+keyword: "Du, Mr Du, Mr Du Blog, 无名的博客, 无名, odoo, python, web"
 url: "https://github-hnzz.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/github-hnzz/github-hnzz.github.io.git" # you code repository
