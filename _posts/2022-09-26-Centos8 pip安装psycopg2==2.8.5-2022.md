@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      Centos8 pip3 安装psycopg2==2.8.5报错解决
@@ -8,10 +7,8 @@ author:     Mr Du
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - centos8
+    - odoo
 ---
-
-> “🙉🙉🙉 ”
 
 
 ## 前言
