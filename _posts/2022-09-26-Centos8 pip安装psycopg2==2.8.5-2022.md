@@ -106,4 +106,5 @@ hint: See above for details.
 
 ## 解决办法
 1.网上搜了一把，postgres数据库的环境变量没有配置
+
 2.有没有简单一点的呢，sudo dnf install libpq-devel，通过查看官方资料得到原来是缺少了libpq-devel这个库，安装这个库就编译通过了！
